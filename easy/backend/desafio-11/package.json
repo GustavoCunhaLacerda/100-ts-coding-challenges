@@ -1,0 +1,6 @@
+{
+  "name": "desafio-11",
+  "private": true,
+  "scripts": { "build": "tsc" },
+  "devDependencies": { "typescript": "^5.4.0", "ts-node": "^10.9.2" }
+}
