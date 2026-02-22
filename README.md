@@ -180,6 +180,7 @@ npm install
 - O código inicial problemático já está nos arquivos — **não altere o `CHALLENGE.md`**
 - Crie sua solução em arquivos com sufixo `.solution` ou em uma pasta `solution/`
 - Os critérios de avaliação são o contrato da sua entrega
+- Use `npm run dev` nos desafios frontend para iniciar o servidor Vite
 
 ---
 
