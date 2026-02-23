@@ -1,0 +1,2 @@
+Corrija o exercicio apontando que está errado mas não corrija, apenas pontue que falta coisas para arrumar e o "tópico".
+Seja abrangente na correção, não especifíque cada detalhe do erro apenas fale por ex: Erro de nome escrito errado, componente ainda confuso etc.
